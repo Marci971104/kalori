@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src", "test"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Céges\\Desktop\\marci\\tombsug\\lib\\junit-jupiter-api-5.8.2.jar",
+        "c:\\Users\\Céges\\Desktop\\marci\\tombsug\\lib\\junit-platform-console-standalone-1.8.2.jar"
+    ],
+    "git.ignoreLimitWarning": true
+}
